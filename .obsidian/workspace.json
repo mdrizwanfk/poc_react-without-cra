@@ -148,6 +148,8 @@
   },
   "active": "f067e22d2c934148",
   "lastOpenFiles": [
+    "src/components/App.js",
+    "src/components",
     "src/index.html",
     "components/App.js",
     "components",
@@ -162,8 +164,6 @@
     "node_modules/lodash/README.md",
     "node_modules/lodash/flake.lock",
     "node_modules/lodash/package.json",
-    "node_modules/lodash/zipWith.js",
-    "node_modules/lodash/fp/zipWith.js",
     "node_modules/html-minifier-terser/node_modules/commander/Readme.md",
     "node_modules/html-minifier-terser/README.md",
     "node_modules/entities/readme.md",
