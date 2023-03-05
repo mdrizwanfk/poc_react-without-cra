@@ -4,7 +4,8 @@
   "description": "Create React App is a Reactjs Build-Tool/toolchain.",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --mode development --open --hot"
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
